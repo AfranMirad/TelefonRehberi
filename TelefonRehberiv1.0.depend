@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494416264 source:c:\users\mediamarkt\desktop\textcalc\telefonrehberiv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1494419864 source:c:\users\afran\desktop\telefonrehberiv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
